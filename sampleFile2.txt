@@ -1,2 +1,6 @@
-change3
+<<<<<<< HEAD
+
 change 4
+=======
+changess from new branch
+>>>>>>> nbranch
